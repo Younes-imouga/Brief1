@@ -33,9 +33,9 @@ Nous cherchons un **développeur Front-end UI/UX** talentueux pour transformer l
 ## Bonus et recommandations
 
 - **Analyse des performances** : Évaluez et optimisez l'architecture existante avant la migration.
-- **Conformité W3C** : Assurez-vous que le code HTML et CSS est conforme aux normes du W3C.
+<!-- - **Conformité W3C** : Assurez-vous que le code HTML et CSS est conforme aux normes du W3C. -->
 - **Tests d'accessibilité** : Utilisez des outils comme Axe ou WAVE pour tester et améliorer l'accessibilité.
-- **Déploiement GitHub Pages** : Hébergez le site final sur GitHub Pages pour le rendre public.
+<!-- - **Déploiement GitHub Pages** : Hébergez le site final sur GitHub Pages pour le rendre public. -->
 
 ## Modalités pédagogiques
 
@@ -60,4 +60,4 @@ Nous cherchons un **développeur Front-end UI/UX** talentueux pour transformer l
 ### Bonus
 
 - Wireframe low-fidelity d'une page.
-# Brief1
+
